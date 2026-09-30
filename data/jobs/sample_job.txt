@@ -1,0 +1,11 @@
+Software Engineer
+
+We are looking for a Software Engineer with strong programming
+skills and experience in Python, SQL, Java and Machine Learning.
+
+The candidate should have experience developing REST APIs
+using Spring Boot.
+
+Knowledge of Docker, Git and MySQL is preferred.
+
+Good problem-solving, communication and teamwork skills are required.
