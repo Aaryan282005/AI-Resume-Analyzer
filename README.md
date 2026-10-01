@@ -96,3 +96,35 @@ Main endpoint:
 
 ```text
 POST /analyze-resume
+
+## Screenshots
+
+### Main Interface
+
+The Streamlit interface allows users to upload a PDF resume and provide a job description for analysis.
+
+![Main Interface](docs/screenshots/01-main-interface.png)
+
+### Resume Analysis
+
+Displays the extracted resume profile and detected resume information.
+
+![Resume Analysis](docs/screenshots/02-resume-analysis.png)
+
+### ATS Analysis
+
+Provides the overall ATS score along with exact skill matching, semantic matching, keyword coverage, and resume quality.
+
+![ATS Analysis](docs/screenshots/03-ats-analysis.png)
+
+### Skills Analysis
+
+Shows matched skills, identified skill gaps, and prioritized skills.
+
+![Skills Analysis](docs/screenshots/04-skills-analysis.png)
+
+### Gemini AI Analysis
+
+Provides AI-generated analysis covering overall assessment, strengths, weaknesses, technical skills, experience, projects, and improvement areas.
+
+![Gemini AI Analysis](docs/screenshots/05-gemini-analysis.png)
